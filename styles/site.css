@@ -1,0 +1,89 @@
+h1{
+  font-family: monospace;
+  text-align: center;
+  margin-top: 5%;
+}
+
+p.paragraph {
+  font-family: monospace;
+}
+
+header * {
+  display: flex;
+  text-align: center;
+}
+
+header {
+  border-bottom: 1px solid black;
+}
+
+div.imaging {
+  display: flex;
+  flex-direction: column;
+  width: 30%;
+  margin: auto;
+}
+
+.resume{
+  display: flex;
+  flex-direction: column;
+  width: 35%;
+  margin: auto;
+  border: solid;
+}
+
+.california {
+  border: solid;
+  margin-bottom: 5%;
+}
+
+.ocean{
+  border: solid;
+  margin-top: 5%;
+  margin-bottom: 5%;
+}
+
+.moon{
+  border: solid;
+  margin-top: 5%;
+  margin-bottom: 5%;
+}
+
+.station{
+  border: solid;
+  margin-top: 5%;
+  margin-bottom: 5%;
+}
+
+.sacollege{
+  border: solid;
+  margin-top: 5%;
+  margin-bottom: 5%;
+}
+
+.ocsahigh{
+  border: solid;
+  margin-top: 5%;
+  margin-bottom: 5%;
+}
+
+.cornell{
+  border: solid;
+  margin-top: 5%;
+  margin-bottom: 5%;
+}
+
+.servsafe{
+  border: solid;
+  margin-top: 5%;
+  margin-bottom: 5%;
+}
+
+p{
+  text-align: center;
+  font-family: monospace;
+  margin-right: 20%;
+  margin-left: 20%;
+  margin-top: 5%;
+  margin-bottom: 5%;
+}
